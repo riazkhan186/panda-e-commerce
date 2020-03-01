@@ -1,0 +1,106 @@
+body{
+    margin: 0px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+/*--------------slider---------*/
+.orange-bg{
+    background-color:#fceae8 ;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy_now_button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    border: none;
+}
+
+
+/*-----------catagories-----------*/
+
+.cat1{
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+.cat3{
+    background-color: deepskyblue;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+
+/*---------shoes----------*/
+.shoes h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px dimgray;
+
+}
+
+
+/*------------bags------------*/
+.backpack h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0px;
+}
+.card-footer{
+    border: 0px;
+    background-color: white;
+}
+
+/*--------contact----------*/
+.contact{
+    height: 300px;
+}
+.contact h6, h1{
+    text-transform: uppercase;
+
+}
+.contact h1{
+    margin-bottom: 0px;
+}
+.contact h6{
+    color: gray;
+    padding-bottom: 5px;
+    margin-top: 0px;
+}
+.contact .buy_now_button{
+    margin-top: 2px;
+}
+
+/*-----------footer----------*/
+footer{
+    text-align: center;
+    margin: 5px;
+}
